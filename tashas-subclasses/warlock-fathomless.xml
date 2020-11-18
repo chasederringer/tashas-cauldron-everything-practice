@@ -84,7 +84,7 @@
     <rules>
     <stat name ="tentacle of the deep:max uses" value="proficiency"/>
     <stat name ="tentacle of the deep:dice" value="1" level="1"/>
-    <stat name ="tentacle of the deep:dice" value="2" level="10"/>
+    <stat name ="tentacle of the deep:dice" value="1" level="10"/>
     </rules>
   </element>
   <element name="Gift of the Sea" type="Archetype Feature" source="Tasha's Cauldron of Everything" id="ID_WOTC_TASHAS_ARCHETYPE_FEATURE_FATHOMLESS_GIFT_OF_THE_SEA">
@@ -118,7 +118,7 @@
     </sheet>
     <rules>
       <stat name ="guardian coil:dice" value = "1" level = "6"/>
-      <stat name ="guardian coil:dice" value = "2" level = "10"/>
+      <stat name ="guardian coil:dice" value = "1" level = "10"/>
     </rules>
   </element>
   <element name="Grasping Tentacles" type="Archetype Feature" source="Tasha's Cauldron of Everything" id="ID_WOTC_TASHAS_ARCHETYPE_FEATURE_FATHOMLESS_GRASPING_TENTACLES">
