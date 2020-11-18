@@ -114,7 +114,7 @@
       <p>Your Tentacle of the Deeps can defend you and others, interposing itself between them and harm. When you or a creature you can see takes damage while within 10 feet of the tentacle, you can use your reaction to choose one of those creatures and reduce the damage to that creature by 1d8. When you reach 10th level in this class, the damage reduced by the tentacle increases to 2d8.</p>
     </description>
     <sheet action = "Reaction">
-      <description>When you or a creature you can see takes damage within 10 feet of your Tentacle of the Deeps, you can use your reaction to choose one of those creatures and reduce the damage to that creature by{{guardian coil:dice}}d8</description>
+      <description>When you or a creature you can see takes damage within 10 feet of your Tentacle of the Deeps, you can use your reaction to choose one of those creatures and reduce the damage to that creature by {{guardian coil:dice}}d8</description>
     </sheet>
     <rules>
       <stat name ="guardian coil:dice" value = "1" level = "6"/>
